@@ -1,0 +1,1 @@
+import{v as o,r as s,o as n,a as c,d as e,l as p,t as u,u as l}from"./index-2e0239b6.js";import{M as _}from"./MyTravelHeader-c1204da3.js";const x={__name:"MyTravelCart",setup(m){const r=o(),t=parseInt(r.params.id);return(i,d)=>{const a=s("router-view");return n(),c("div",null,[e(_),p(" "+u(l(t))+" ",1),e(a)])}}};export{x as default};
